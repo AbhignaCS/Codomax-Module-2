@@ -1,0 +1,11 @@
+Student_ID,Name,Age,Branch,Marks,Attendance_Percent
+101,Aarav,20.0,AI & DS,80.0,92.0
+102,Diya,21.0,CSE,92.0,96.0
+103,Rohan,,ECE,70.0,85.0
+103,Rohan,,ECE,70.0,85.0
+104,Meera,22.0,AI & DS,85.0,90.0
+105,Kiran,19.0,CSE,,78.0
+106,Ananya,21.0,ISE,95.0,98.0
+106,Ananya,21.0,ISE,95.0,98.0
+107,Vikram,,AI & DS,76.0,
+108,Sana,20.0,ECE,88.0,89.0
